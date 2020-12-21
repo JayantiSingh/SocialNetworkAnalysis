@@ -1,16 +1,11 @@
 # Social Networks: Link Prediction
 
-### Capstone Project: Data and Knowledge Engineering
+
 
 #### Video link:  [Social Network Analysis: Link Prediction](https://youtu.be/XRMhgxW-C_M)
 
 ---
 
-### ✨Contributors: Group 1✨
-
-- Pranjal Mathur  (1410110296) 
-- Prerna (1410110306)
-- Saketh Vallakatla (1410110352)
 
 ------
 
